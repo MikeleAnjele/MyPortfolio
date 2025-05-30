@@ -26,7 +26,7 @@ I create accessible, structured documentation for developers, designers, and end
 
 **Skills**: Internal release comms · Markdown · UX-focused updates  
 
-📷 ![Design System Release Notes Screenshot](design-system-release.png)
+ ![Design System Release Notes Screenshot](newsletter_mw.png)
 
 
 
@@ -42,8 +42,8 @@ I create accessible, structured documentation for developers, designers, and end
 
 **Skills**: Component doc templates · UI documentation · Information architecture
 
-📷 ![Component Template Screenshot](component-template.png)
-📷 ![Design System Editor's Style Guide Screenshot](ds-editors-style-guide.png)
+ ![Component Template Screenshot](component_page_templarte_mw.png)
+ ![Design System Editor's Style Guide Screenshot](ds_editors_style_guide.mw.png)
 
 
 ### ⚛ React Seed Documentation
@@ -58,7 +58,7 @@ I create accessible, structured documentation for developers, designers, and end
   
 **Skills**: Docs-as-code · GitHub workflows · React ecosystem · Markdown  
 
-📷 ![React Seed Documentation Screenshot](react-seed-docs.png)
+ ![React Seed Documentation Screenshot](react_seed_mw.png)
 
 
 ## 🔧 Skills
