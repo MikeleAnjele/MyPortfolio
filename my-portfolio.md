@@ -5,10 +5,12 @@ I'm Michał, a bilingual (EN/PL) **technical writer** and **content specialist**
 
 I create accessible, structured documentation for developers, designers, and end users. My experience spans design systems, UX writing, translation, and content optimization.
 
+✍️[CV](CV_Michał_Wiejacki_en.pdf)
 📍 Based in Poland  
 ✉️ wiejacki.mic@gmail.com  
 🧰 Tools: Markdown · Git · CMS · Adobe Analytics · AEM · Docs-as-code · GenAI  
-🌍 Languages: Polish (native), English (fluent)
+🌍 Languages: Polish (native), English (fluent) 
+
 
 
 
